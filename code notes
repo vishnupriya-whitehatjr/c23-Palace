@@ -14,3 +14,6 @@ i.e; triangle(x1, y1, x2, y2, x3, y3)
     y2 Number: y-coordinate of the second point
     x3 Number: x-coordinate of the third point
     y3 Number: y-coordinate of the third point
+    
+For shapes refer :  https://p5js.org/reference/#/p5/triangle
+                    https://p5js.org/reference/#/p5/rect    
