@@ -13,7 +13,7 @@ function setup() {
 
   engine = Engine.create();
   world = engine.world;
-
+  console.log(gate1);
   ground = new Gate(400,770,700,10);
 
   gate3 = new Gate(400,645,500,40);
